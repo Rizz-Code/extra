@@ -4,8 +4,8 @@
 apt update && apt upgrade
 apt install python3 python3-pip git
 git clone https://github.com/Rizz-Code/bot.git
-unzip bot_panel/xolpanel.zip
-pip3 install -r xolpanel/requirements.txt
+# unzip bot_panel/xolpanel.zip
+pip3 install -r bot/requirements.txt
 pip3 install pillow
 
 #isi data
